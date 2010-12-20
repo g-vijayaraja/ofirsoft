@@ -2,7 +2,7 @@
  * (C) Hubino (P) Ltd.
  *
  * The program(s) herein may be used and/or copied only with the 
- * written permission of Hubino (P) Ltd. 
+ * written permission of Hubino (P) Ltd Chennai. 
  * or in accordance with the terms and conditions stipulated in the 
  * agreement/contract under which the program(s) have been supplied.
  *
